@@ -142,6 +142,8 @@ https://visualgo.net/en/sorting
 - peek - to get 1st element
 - Circular Queue
 
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
 ## 14 Patterns to Ace Any Coding Interview Question
 
 >### https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
