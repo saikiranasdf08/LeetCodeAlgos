@@ -22,7 +22,7 @@ def mergeKLists( lists):
         temp.next=minNode
         lists[minIdx]=minNode.next
         temp=temp.next
-        return res.next
+    return res.next
 
 
 
